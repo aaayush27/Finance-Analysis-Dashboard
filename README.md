@@ -249,5 +249,3 @@ Data Analyst | Power BI | SQL | Python | Tableau | Excel
 📧 aayushpatil39146@gmail.com
 
 🔗 LinkedIn: https://linkedin.com/in/ayush-patil-27ap
-
-Open to Data Analyst opportunities.
