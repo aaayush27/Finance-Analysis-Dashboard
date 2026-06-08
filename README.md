@@ -147,6 +147,27 @@ Analyzes transaction contributions by:
 
 Provides demographic insights for business strategy.
 
+### 7. Detailed Transaction Records View
+
+**Visualization:** Interactive Transaction Grid
+
+Provides a detailed transaction-level view of financial records, allowing users to examine and validate the insights generated from summary-level analytics.
+
+The grid includes:
+
+- Transaction ID
+- Transaction Date
+- Customer Name
+- Transaction Type
+- Transaction Status
+- Gender
+- Customer Segment
+- Total Amount
+- Total Fees
+- Total Tax
+
+This page helps users perform operational monitoring and gain deeper visibility into transaction activity.
+
 ---
 
 ## 🎛 Interactive Filters
@@ -186,11 +207,51 @@ Enable management teams to make data-driven financial decisions.
 
 ---
 
+## 📽 Project Demo
+
+### Dashboard Walkthrough – Part 1
+
+https://youtu.be/xVC9GyXergs
+
+### Dashboard Walkthrough – Part 2
+
+https://youtu.be/97zcTmOOZS0
+
+---
+
 ## 📷 Dashboard Preview
 
-### Overview Analysis Dashboard
+### Dashboard Overview
 
-![Finance Dashboard](Snapshot%20of%20the%20Dashboard.png)
+![Dashboard Overview](finance-dashboard-overview.png)
+
+### KPI Performance
+
+![KPI Analysis](finance-kpi-section.png)
+
+### Monthly Transaction Trend
+
+![Monthly Trend](finance-monthly-trend.png)
+
+### Customer Segment Analysis
+
+![Customer Segments](finance-customer-segments.png)
+
+### State-wise Performance
+
+![State Analysis](finance-state-analysis.png)
+
+### Transaction Type Analysis
+
+![Transaction Analysis](finance-transaction-analysis.png)
+
+### Gender-Based Analysis
+
+![Gender Analysis](finance-gender-analysis.png)
+
+### Transaction Records View
+
+![Transaction Records](finance-transactions-page.png)
 
 ---
 
@@ -207,8 +268,24 @@ This dashboard enables organizations to:
 
 ---
 
+## 📁 Repository Contents
+
+- Finance Analysis.pbix
+- README.md
+- Finance Dashboard Screenshots
+- Business Requirements Document
+- Demo Videos
+
+---
+
 ## 👨‍💻 Author
 
-Ayush Patil
+**Ayush Patil**
 
-Data Analyst | Power BI | SQL | Python | Tableau | Excel
+Data Analyst | Power BI | SQL | Python | Tableau
+
+📧 aayushpatil39146@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/ayush-patil-27ap
+
+Open to Data Analyst opportunities.
