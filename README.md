@@ -151,7 +151,7 @@ Provides demographic insights for business strategy.
 
 **Visualization:** Interactive Transaction Grid
 
-Provides a detailed transaction-level view of financial records, allowing users to examine and validate the insights generated from summary-level analytics.
+Provides a detailed transaction-level view of financial records, allowing users to examine and validate insights generated from summary-level analytics.
 
 The grid includes:
 
@@ -211,11 +211,11 @@ Enable management teams to make data-driven financial decisions.
 
 ### Dashboard Overview
 
-![Dashboard Overview](finance-dashboard-overview.png)
+![Dashboard Overview](Snapshot%20of%20the%20Dashboard.png)
 
 ### Transaction Records View
 
-![Transaction Records](finance-transactions-page.png)
+![Transaction Records](Snapshot%20of%20Transaction%20Dashboard.png)
 
 ---
 
@@ -234,7 +234,7 @@ This dashboard enables organizations to:
 
 ## 📁 Repository Contents
 
-- Finance Analysis.pbix
+- Finance Analysis.pbit
 - README.md
 - Dashboard Screenshots
 - Business Requirements Document
