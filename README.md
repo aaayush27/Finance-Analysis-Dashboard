@@ -207,47 +207,11 @@ Enable management teams to make data-driven financial decisions.
 
 ---
 
-## 📽 Project Demo
-
-### Dashboard Walkthrough – Part 1
-
-https://youtu.be/xVC9GyXergs
-
-### Dashboard Walkthrough – Part 2
-
-https://youtu.be/97zcTmOOZS0
-
----
-
 ## 📷 Dashboard Preview
 
 ### Dashboard Overview
 
 ![Dashboard Overview](finance-dashboard-overview.png)
-
-### KPI Performance
-
-![KPI Analysis](finance-kpi-section.png)
-
-### Monthly Transaction Trend
-
-![Monthly Trend](finance-monthly-trend.png)
-
-### Customer Segment Analysis
-
-![Customer Segments](finance-customer-segments.png)
-
-### State-wise Performance
-
-![State Analysis](finance-state-analysis.png)
-
-### Transaction Type Analysis
-
-![Transaction Analysis](finance-transaction-analysis.png)
-
-### Gender-Based Analysis
-
-![Gender Analysis](finance-gender-analysis.png)
 
 ### Transaction Records View
 
@@ -272,9 +236,8 @@ This dashboard enables organizations to:
 
 - Finance Analysis.pbix
 - README.md
-- Finance Dashboard Screenshots
+- Dashboard Screenshots
 - Business Requirements Document
-- Demo Videos
 
 ---
 
