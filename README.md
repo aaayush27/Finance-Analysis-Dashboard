@@ -237,7 +237,6 @@ This dashboard enables organizations to:
 - Finance Analysis.pbit
 - README.md
 - Dashboard Screenshots
-- Business Requirements Document
 
 ---
 
@@ -245,7 +244,7 @@ This dashboard enables organizations to:
 
 **Ayush Patil**
 
-Data Analyst | Power BI | SQL | Python | Tableau
+Data Analyst | Power BI | SQL | Python | Tableau | Excel
 
 📧 aayushpatil39146@gmail.com
 
