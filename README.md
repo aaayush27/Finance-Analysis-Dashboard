@@ -1,9 +1,5 @@
 # 💰 Finance Analysis Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue) ![Power
-Query](https://img.shields.io/badge/Power%20Query-ETL-green)
-
 An interactive Power BI dashboard designed to analyze financial transactions, customer behavior, revenue performance, fees, taxes, and transaction trends across multiple business segments and regions.
 
 ---
